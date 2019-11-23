@@ -1,0 +1,25 @@
+body {
+	padding: 1em;
+}
+
+.manifesto.statement {
+	font-size: 1.75em;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+}
+
+.manifesto.intro {
+	font-size: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+.manifesto.list {
+	list-style: none;
+	padding-left: 0;
+}
+
+.manifesto.list.item {
+	font-size: 1.25em;
+	line-height: 1.5em;
+	margin-bottom: 0.5em;
+}
